@@ -135,7 +135,7 @@ https://localhost:9200/_nodes/_all/jvm?pretty
  option untuk Generate certificate signing request (CSR)? pilih type [y] dan press [enter]
 ![option 1](05-option1.png)
  selanjutnya pilih  [N] dan tekan [enter]
-![option 2](../images/posts/02-option-2.png)
+![option 2](02-option-2.png)
  selanjutnya masukkan hostname server Elasticsearch, lalu pilih  [Y] dan tekan [enter]
 ![option 3](06-option2.png)
  selanjutnya masukkan IP server Elasticsearch, lalu pilih  [Y] dan tekan [enter]
